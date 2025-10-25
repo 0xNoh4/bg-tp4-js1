@@ -1,4 +1,4 @@
-# ⚙️ TP4 – JavaScript : Premiers pas avec le langage
+# ⚙️ TP4 – JavaScript (Partie 1): Bases du langage
 
 ## 🎯 Objectif du TP
 L’objectif de ce TP est de vous familiariser avec les **bases du langage JavaScript**.  
@@ -54,4 +54,5 @@ Vous allez mettre en pratique ces notions à travers **3 exercices progressifs**
 Avant de soumettre :
 - Vérifiez que **votre code s’exécute sans erreur** dans la console du navigateur.  
 - Respectez les **règles de nommage**, l’**indentation** et les **commentaires** exigés.  
+
 - Chaque script doit être **autonome** et respecter les **bonnes pratiques vues en cours**.
