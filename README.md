@@ -25,7 +25,6 @@ Vous allez mettre en pratique ces notions à travers **3 exercices progressifs**
 
 1. **Accès à l’énoncé**
    - L’énoncé complet du TP est déposé sur **GitHub**.
-   - Le lien de l’assignement est communiqué sur **Google Classroom**.
 
 2. **Création de votre espace de travail**
    - Acceptez l’assignement sur GitHub Classroom.
