@@ -15,6 +15,7 @@ function A() {
         // const moy of type "float"
         const moy = B(s[3]);
         
+        // condition
         if(moy) {
             console.log(s[0] + ": ADMIS");
         }else {
